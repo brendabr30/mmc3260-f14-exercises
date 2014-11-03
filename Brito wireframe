@@ -20,10 +20,12 @@
             </header>
             
             <nav>
-                <a href="#">Home</a>
                 <a href="#">About</a>
-                <a href="#">Work</a>
-                <a href="#">Hobbies</a>
+                <a href="#">Resume</a>
+                <a href="#">Photography</a>
+                <a href="#">Audio</a>
+                <a href="#">Video</a>
+                <a href="#">Blog</a>
                 <a href="#">Contact</a>
             </nav>
             
